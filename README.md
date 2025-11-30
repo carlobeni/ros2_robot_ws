@@ -3,8 +3,8 @@
 ## 1. Crear un nuevo workspace
 
 ```bash
-mkdir -p ~/ros2_robot_ws/src
-cd ~/ros2_robot_ws
+mkdir -p ~/ros2_robot_ws2/src
+cd ~/ros2_robot_ws2
 ```
 
 ## 2. Compilacion automatica del workspace con colcon
