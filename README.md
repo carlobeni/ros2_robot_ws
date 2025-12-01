@@ -5,7 +5,7 @@
 mkdir -p ~/ros2_robot_ws2/src
 cd ~/ros2_robot_ws2
 ```
-## 2. Clonar repositorio
+## 2. Clonar repositorio en src
 ```bash
 git clone https://github.com/carlobeni/articubot_one.git
 ```
